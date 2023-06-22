@@ -1,0 +1,11 @@
+numpy==1.22.1
+scipy==1.7.3
+arviz==0.11.4
+matplotlib
+seaborn
+pymc3==3.11.5
+tqdm
+scikit-learn
+pandas
+seaborn
+wheel
